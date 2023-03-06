@@ -13,7 +13,7 @@ Visualizations:
 bar chart to show categorical and time-series data, 
 doughnut chart to show compositional data, 
 line chart to show comparison and trends, 
-filled map to show geospatial and comparison data, 
+filled map to show geospatial and comparison data 
 
 Formulas/features used:
 
