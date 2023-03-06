@@ -10,10 +10,11 @@ The Role: I acted as a data analyst working at Maven Careers, a non-profit organ
 
 Visualizations:
 
-bar chart to show categorical and time-series data
-doughnut chart to show compositional data
-line chart to show comparison and trends
-filled map to show geospatial and comparison data
+bar chart to show categorical and time-series data, 
+doughnut chart to show compositional data, 
+line chart to show comparison and trends, 
+filled map to show geospatial and comparison data, 
+
 Formulas/features used:
 
 IF, SUM, SUMIFS, AVERAGEIFS, INDEX
